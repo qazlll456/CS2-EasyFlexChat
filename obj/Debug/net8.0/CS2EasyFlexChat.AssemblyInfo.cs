@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CS2EasyFlexChat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fb72dd71fffb001b51a8e3c304a5f5a7c553093")]
 [assembly: System.Reflection.AssemblyProductAttribute("CS2EasyFlexChat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CS2EasyFlexChat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
