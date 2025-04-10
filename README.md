@@ -288,7 +288,13 @@ dotnet build
 ## Support the Project
 If you find this plugin helpful and want to support its development, 
 
-consider donating via my Streamlabs tipping page: [Donate here](https://streamlabs.com/BKCqazlll456/tip). 
+Money, Steam games, or any valuable contribution is welcome.
+
+[ko_fi](https://ko-fi.com/qazlll456).
+
+[patreon](https://www.patreon.com/c/qazlll456).
+
+[Streamlabs](https://streamlabs.com/BKCqazlll456/tip)
 
 Your support is greatly appreciated!
 
