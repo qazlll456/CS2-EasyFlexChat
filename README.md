@@ -285,7 +285,7 @@ dotnet build
 ```
 4. Find the compiled files in bin/Debug/net8.0/.
 
-## Support the Project
+## Support
 If you find this plugin helpful and want to support its development, 
 
 Money, Steam games, or any valuable contribution is welcome.
