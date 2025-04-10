@@ -9,6 +9,13 @@ This plugin enhances your CS2 server with a variety of chat commands using the C
 - **Author**:         qazlll456 from HK with xAI assistance
 - **Description**:    A versatile plugin that supports chat commands like !rps, !guessnumber, !roll, and more, with role-based permissions and customization.
 
+## Donate
+If you enjoy it and find it helpful, consider donating to me! Every bit helps me keep developing.
+Money, Steam games, or any valuable contribution is welcome.
+- **Ko-fi**: [Support on Ko-fi](https://ko-fi.com/qazlll456)
+- **Patreon**: [Become a Patron](https://www.patreon.com/c/qazlll456)
+- **Streamlabs**: [Tip via Streamlabs](https://streamlabs.com/BKCqazlll456/tip)
+
 ## Features
 Custom Chat Commands: Create your own commands with configurable messages, permissions, and targets.
 Chat Games:
@@ -285,18 +292,6 @@ dotnet build
 ```
 4. Find the compiled files in bin/Debug/net8.0/.
 
-## Support
-If you find this plugin helpful and want to support its development, 
-
-Money, Steam games, or any valuable contribution is welcome.
-
-[ko_fi](https://ko-fi.com/qazlll456).
-
-[patreon](https://www.patreon.com/c/qazlll456).
-
-[Streamlabs](https://streamlabs.com/BKCqazlll456/tip)
-
-Your support is greatly appreciated!
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
